@@ -26,6 +26,7 @@ I work at the intersection of **hands-on engineering, platform architecture, and
 
 | Project | What it demonstrates |
 | :--- | :--- |
+| **[Okta Diagnostics Companion](https://github.com/Mrandrew9/okta-diagnostics-companion)** | Read-only Chrome (MV3) extension for Okta admins: per-user sign-in, provisioning and policy investigation from the System Log, evidence-based triage, and formula-safe CSV export. No API tokens, no telemetry. |
 | **[Enterprise SaaS Incident Intelligence](https://github.com/Mrandrew9/Ai-automation-lab/tree/main/projects/saas-incident-intelligence)** | Vendor status monitoring, Slack alerting, application-owner routing, incident deduplication, and an architecture for Jira/ServiceNow escalation. |
 | **[n8n Enterprise Automation Workflows](https://github.com/Mrandrew9/n8n-shop)** | Reusable workflows for privacy requests and IAM access approval, with validation and test automation. |
 | **[Slack SCIM Group Lifecycle](https://github.com/Mrandrew9/slack-scim-api-groups)** | Postman-based group creation and membership management for Slack Enterprise Grid. |
