@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm an enterprise IT systems engineer with **10+ years of experience** working across collaboration platforms, identity and access management, SaaS integrations, and IT operations.
+I'm an Sr enterprise  systems engineer (IT) with **10+ years of experience** working across collaboration platforms, identity and access management, SaaS integrations, and IT operations.
 
 My focus is on building **secure foundations for automation and AI**: reliable authentication and provisioning, clear service ownership, sensible governance, and workflows that reduce manual work without sacrificing control or auditability.
 
